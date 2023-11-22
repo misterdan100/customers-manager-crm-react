@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 
 const Layout = () => {
@@ -20,7 +21,7 @@ const Layout = () => {
         </nav>
       </aside>
 
-      <main className="md:w-3/4 p-10 md:h-screen overflow-scroll">
+      <main className="md:w-3/4 p-10 md:h-screen overflow-scroll relative">
         <Outlet />
       </main>
     </div>
