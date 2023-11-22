@@ -1,6 +1,6 @@
 import { useLoaderData } from "react-router-dom";
 import Cliente from "../components/Cliente";
-import { ChevronDoubleLeftIcon } from '@heroicons/react/24/solid'
+
 
 export function loader() {
   const clientes = [
@@ -49,9 +49,6 @@ const Index = () => {
 
   return (
     <>
-      <ChevronDoubleLeftIcon className="h-6 w-6 absolute top-2 left-10 text-gray-400 hover:text-gray-700 hover:cursor-pointer"
-        onClick={() => console.log('clic')}
-      />
       <h1 className="font-black text-4xl text-blue-900">Clientes</h1>
       <p className="mt-3">Administra tus Clientes</p>
 
