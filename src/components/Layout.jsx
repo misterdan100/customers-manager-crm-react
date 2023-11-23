@@ -9,7 +9,7 @@ const Layout = () => {
   return (
     <div className="md:flex md:min-h-screen">
       {isLayoutOpen && (
-        <aside className="md:w-1/4 bg-blue-900 px-5 py-10">
+        <aside className="md:w-1/4 bg-blue-900 px-5 py-10 transition-all">
           <h2 className="text-4xl font-black text-center text-white">
             CRM - Clientes
           </h2>
