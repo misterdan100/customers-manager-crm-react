@@ -1,0 +1,39 @@
+{
+"clientes": [
+    {
+        "id": 1,
+        "nombre": "John Doe",
+        "telefono": 5551234567,
+        "email": "john.doe@example.com",
+        "empresa": "ABC Company"
+    },
+    {
+        "id": 2,
+        "nombre": "Jane Smith",
+        "telefono": 5559876543,
+        "email": "jane.smith@example.com",
+        "empresa": "XYZ Corporation"
+    },
+    {
+        "id": 3,
+        "nombre": "Bob Johnson",
+        "telefono": 5558765432,
+        "email": "bob.johnson@example.com",
+        "empresa": "123 Enterprises"
+    },
+    {
+        "id": 4,
+        "nombre": "Alice Williams",
+        "telefono": 5552345678,
+        "email": "alice.williams@example.com",
+        "empresa": "456 Industries"
+    },
+    {
+        "id": 5,
+        "nombre": "Charlie Brown",
+        "telefono": 5553456789,
+        "email": "charlie.brown@example.com",
+        "empresa": "789 Limited"
+    }
+]
+}
