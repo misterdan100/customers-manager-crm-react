@@ -1,39 +1,56 @@
 {
-"clientes": [
+  "clientes": [
     {
-        "id": 1,
-        "nombre": "John Doe",
-        "telefono": 5551234567,
-        "email": "john.doe@example.com",
-        "empresa": "ABC Company"
+      "nombre": "John Daniel",
+      "empresa": "ABC Company",
+      "email": "john.doe@example.com",
+      "telefono": "5551234567",
+      "notas": "Nuevo",
+      "id": 1
     },
     {
-        "id": 2,
-        "nombre": "Jane Smith",
-        "telefono": 5559876543,
-        "email": "jane.smith@example.com",
-        "empresa": "XYZ Corporation"
+      "id": 2,
+      "nombre": "Jane Smith",
+      "telefono": 5559876543,
+      "email": "jane.smith@example.com",
+      "empresa": "XYZ Corporation"
     },
     {
-        "id": 3,
-        "nombre": "Bob Johnson",
-        "telefono": 5558765432,
-        "email": "bob.johnson@example.com",
-        "empresa": "123 Enterprises"
+      "id": 3,
+      "nombre": "Bob Johnson",
+      "telefono": 5558765432,
+      "email": "bob.johnson@example.com",
+      "empresa": "123 Enterprises"
     },
     {
-        "id": 4,
-        "nombre": "Alice Williams",
-        "telefono": 5552345678,
-        "email": "alice.williams@example.com",
-        "empresa": "456 Industries"
+      "id": 4,
+      "nombre": "Alice Williams",
+      "telefono": 5552345678,
+      "email": "alice.williams@example.com",
+      "empresa": "456 Industries"
     },
     {
-        "id": 5,
-        "nombre": "Charlie Brown",
-        "telefono": 5553456789,
-        "email": "charlie.brown@example.com",
-        "empresa": "789 Limited"
+      "id": 5,
+      "nombre": "Charlie Brown",
+      "telefono": 5553456789,
+      "email": "charlie.brown@example.com",
+      "empresa": "789 Limited"
+    },
+    {
+      "nombre": "Asperiores et explic",
+      "empresa": "Qui quia quia labori",
+      "email": "gymu@mailinator.com",
+      "telefono": "+1 (484) 817-3634",
+      "notas": "Aperiam rerum sequi ",
+      "id": 6
+    },
+    {
+      "nombre": "Aliquip nisi consequ",
+      "empresa": "Nesciunt deserunt r",
+      "email": "pupykaxyqa@mailinator.com",
+      "telefono": "+1 (226) 154-7697",
+      "notas": "Velit asperiores ul",
+      "id": 7
     }
-]
+  ]
 }
