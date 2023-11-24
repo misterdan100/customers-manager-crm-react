@@ -2,7 +2,7 @@ import { useLoaderData } from "react-router-dom";
 import Cliente from "../components/Cliente";
 import { obtenerClientes } from "../data/clientes";
 
-
+//* Loader always must return something
 export function loader() {
   const clientes = obtenerClientes()
   return clientes
